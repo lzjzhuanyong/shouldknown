@@ -1,5 +1,4 @@
-//this is the aeternity monetary policy by default, if there is no change later, this will be running about 116 years.
-
+this is the aeternity monetary policy by default, if there is no change later, this will be running about 116 years.
 
 Coinbase at height
 ==
